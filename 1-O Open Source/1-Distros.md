@@ -40,7 +40,7 @@ As ferramentas GNU fazem parte de um conjunto feito pelo [Projeto GNU](https://p
 
 ## Shell 
 
-O Shell Do Unix é um interpretador de linha de comando(melhor explicado na proxima parte). O usuário indica a operação do computador pela entrada de comandos parao Shell executar ou então cria scripts de texto ou coisa parecida. Agora no começo não precisa se preocupar muito com isso, mas se você quer dar ao seu terminal uma cara mais bonita vou deixar algumas recomendações abaixo.
+O Shell do Unix é um interpretador de linha de comando(melhor explicado na proxima parte). O usuário indica a operação do computador pela entrada de comandos parao Shell executar ou então cria scripts de texto ou coisa parecida. Agora no começo não precisa se preocupar muito com isso, mas se você quer dar ao seu terminal uma cara mais bonita vou deixar algumas recomendações abaixo.
 
 * ZSH - Oh My Zsh
 * Fish - Oh My Fish
